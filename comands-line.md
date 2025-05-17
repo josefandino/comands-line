@@ -1,3 +1,3 @@
-# PARH of FNM
+# PATH of FNM
 readlink -f $(which node)
 
